@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files starting with.
+command to display contents, including hidden files (starting with .)
