@@ -1,1 +1,1 @@
-create sybmolic link
+script that moves
