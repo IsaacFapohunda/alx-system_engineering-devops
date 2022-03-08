@@ -1,1 +1,1 @@
-write a shell that creates a file named exactly
+Write a script that counts the number of directions and sub-directories in the current directory
