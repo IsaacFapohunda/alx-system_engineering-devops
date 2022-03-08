@@ -1,1 +1,1 @@
-Write a script that counts the number of directories and sub-directoriesin the current directory
+'Write a script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line' 
