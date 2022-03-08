@@ -1,1 +1,1 @@
-Display lines containing the pattern "root" from the file /etc/passwd
+Write a command that finds all empty files and directories in the current directory and sub-directories
