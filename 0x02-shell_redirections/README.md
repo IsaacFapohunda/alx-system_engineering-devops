@@ -1,1 +1,1 @@
-a script that deletes all the regular files
+write a script that displays a confused smiley
